@@ -1,4 +1,4 @@
-package com.sibs.sample;
+package com.winning.sample;
 
 import org.junit.Test;
 

@@ -1,4 +1,4 @@
-package com.sibs.sample;
+package com.winning.sample;
 
 public class SampleApp {
     private final String message = "Hello World!";
